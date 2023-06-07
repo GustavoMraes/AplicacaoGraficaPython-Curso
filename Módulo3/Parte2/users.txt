@@ -1,0 +1,2 @@
+emailManeiro@exemplo.com;Senha;NomeBom;2023-06-07
+emailManeiro1@exemplo.com;Senha;NOme;2023-06-07
